@@ -1,7 +1,7 @@
-- [ ] O que é Git
-- [ ] Instalação e Configuração
-- [ ] Clonando Repositório
-- [ ] Gravando Mudanças
+- [x] O que é Git
+- [x] Instalação e Configuração
+- [x] Clonando Repositório
+- [x] Gravando Mudanças
 - [ ] Git diff e commit
 - [ ] Git log e restore
 - [ ] GitHub
