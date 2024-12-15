@@ -2,8 +2,8 @@
 - [x] Instalação e Configuração
 - [x] Clonando Repositório
 - [x] Gravando Mudanças
-- [ ] Git diff e commit
-- [ ] Git log e restore
+- [x] Git diff e commit
+- [x] Git log e restore
 - [ ] GitHub
 - [ ] Git branch
 - [ ] Merging branchs
