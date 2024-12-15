@@ -7,4 +7,4 @@
 - [x] Repositórios Remotos
 - [x] GitHub
 - [x] Git branch
-- [x] Resolução de conflitos
+- [x] Merge de branchs + Resolução de conflitos
