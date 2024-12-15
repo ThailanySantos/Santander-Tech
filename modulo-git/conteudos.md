@@ -8,3 +8,4 @@
 - [x] GitHub
 - [x] Git branch
 - [x] Merge de branchs + Resolução de conflitos
+
