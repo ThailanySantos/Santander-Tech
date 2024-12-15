@@ -4,6 +4,7 @@
 - [x] Gravando Mudanças
 - [x] Git diff e commit
 - [x] Git log e restore
-- [ ] GitHub
-- [ ] Git branch
+- [x] Repositórios Remotos
+- [x] GitHub
+- [x] Git branch
 - [ ] Merging branchs
